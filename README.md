@@ -10,6 +10,8 @@ Software: Python 3.7.6,   Jupyter Notebook 6.4.8,   VS Code 1.68.1
 
 ## Results
 Filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June and December, then generate the summary statistics for both two months.<br/>
+![june query](https://user-images.githubusercontent.com/107179765/183386738-80b56e4d-97d9-4c41-9527-cdffb7f8dd4c.png)
+![december query](https://user-images.githubusercontent.com/107179765/183386755-6ee40ce5-ff14-4257-aa80-9181b7b95bf8.png)
 ![june temps](https://user-images.githubusercontent.com/107179765/183343774-14a0157d-16b6-462c-bfd6-f84a93914394.png)
 ![december temps](https://user-images.githubusercontent.com/107179765/183343808-903be047-85ab-4a35-a8c3-eda74108a4a8.png)<br/>
 From the summary statistics we can see that:<br/>
